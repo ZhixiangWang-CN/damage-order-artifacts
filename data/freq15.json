@@ -1,0 +1,629 @@
+{
+ "index": "v4_dolma-v1_7_llama",
+ "counts": {
+  "Afghanistan": {
+   "capital": "Kabul",
+   "cooc": 2044139,
+   "cooc_approx": true,
+   "cap": 2665428,
+   "cap_ntok": 2,
+   "phrase": 128
+  },
+  "Algeria": {
+   "capital": "Algiers",
+   "cooc": 315469,
+   "cooc_approx": true,
+   "cap": 694298,
+   "cap_ntok": 3,
+   "phrase": 146
+  },
+  "Argentina": {
+   "capital": "Buenos Aires",
+   "cooc": 1488969,
+   "cooc_approx": true,
+   "cap": 3513406,
+   "cap_ntok": 2,
+   "phrase": 218
+  },
+  "Australia": {
+   "capital": "Canberra",
+   "cooc": 2360657,
+   "cooc_approx": true,
+   "cap": 4740474,
+   "cap_ntok": 3,
+   "phrase": 769
+  },
+  "Austria": {
+   "capital": "Vienna",
+   "cooc": 1688944,
+   "cooc_approx": true,
+   "cap": 10051359,
+   "cap_ntok": 1,
+   "phrase": 191
+  },
+  "Bangladesh": {
+   "capital": "Dhaka",
+   "cooc": 1042874,
+   "cooc_approx": true,
+   "cap": 2514543,
+   "cap_ntok": 3,
+   "phrase": 185
+  },
+  "Belarus": {
+   "capital": "Minsk",
+   "cooc": 483404,
+   "cooc_approx": true,
+   "cap": 1495829,
+   "cap_ntok": 2,
+   "phrase": 217
+  },
+  "Belgium": {
+   "capital": "Brussels",
+   "cooc": 2298749,
+   "cooc_approx": true,
+   "cap": 9796702,
+   "cap_ntok": 3,
+   "phrase": 250
+  },
+  "Brazil": {
+   "capital": "Brasilia",
+   "cooc": 189151,
+   "cooc_approx": true,
+   "cap": 412950,
+   "cap_ntok": 2,
+   "phrase": 300
+  },
+  "Bulgaria": {
+   "capital": "Sofia",
+   "cooc": 0,
+   "cooc_approx": true,
+   "cap": 3826262,
+   "cap_ntok": 2,
+   "phrase": 249
+  },
+  "Canada": {
+   "capital": "Ottawa",
+   "cooc": 4195523,
+   "cooc_approx": true,
+   "cap": 10308206,
+   "cap_ntok": 2,
+   "phrase": 853
+  },
+  "Chile": {
+   "capital": "Santiago",
+   "cooc": 1365022,
+   "cooc_approx": true,
+   "cap": 5226268,
+   "cap_ntok": 1,
+   "phrase": 179
+  },
+  "China": {
+   "capital": "Beijing",
+   "cooc": 27864359,
+   "cooc_approx": true,
+   "cap": 18078881,
+   "cap_ntok": 3,
+   "phrase": 449
+  },
+  "Colombia": {
+   "capital": "Bogota",
+   "cooc": 625356,
+   "cooc_approx": true,
+   "cap": 1027319,
+   "cap_ntok": 2,
+   "phrase": 103
+  },
+  "Czech Republic": {
+   "capital": "Prague",
+   "cooc": 1501164,
+   "cooc_approx": true,
+   "cap": 6225911,
+   "cap_ntok": 2,
+   "phrase": 64
+  },
+  "Denmark": {
+   "capital": "Copenhagen",
+   "cooc": 1913752,
+   "cooc_approx": true,
+   "cap": 5877645,
+   "cap_ntok": 3,
+   "phrase": 259
+  },
+  "Ecuador": {
+   "capital": "Quito",
+   "cooc": 872332,
+   "cooc_approx": true,
+   "cap": 938463,
+   "cap_ntok": 2,
+   "phrase": 177
+  },
+  "Egypt": {
+   "capital": "Cairo",
+   "cooc": 3202328,
+   "cooc_approx": true,
+   "cap": 5582778,
+   "cap_ntok": 2,
+   "phrase": 244
+  },
+  "Estonia": {
+   "capital": "Tallinn",
+   "cooc": 826396,
+   "cooc_approx": true,
+   "cap": 1208545,
+   "cap_ntok": 3,
+   "phrase": 170
+  },
+  "Ethiopia": {
+   "capital": "Addis Ababa",
+   "cooc": 646335,
+   "cooc_approx": true,
+   "cap": 1142508,
+   "cap_ntok": 4,
+   "phrase": 140
+  },
+  "Finland": {
+   "capital": "Helsinki",
+   "cooc": 257700,
+   "cooc_approx": true,
+   "cap": 4435774,
+   "cap_ntok": 3,
+   "phrase": 249
+  },
+  "France": {
+   "capital": "Paris",
+   "cooc": 17973158,
+   "cooc_approx": true,
+   "cap": 58070155,
+   "cap_ntok": 1,
+   "phrase": 859
+  },
+  "Germany": {
+   "capital": "Berlin",
+   "cooc": 5623731,
+   "cooc_approx": true,
+   "cap": 25247116,
+   "cap_ntok": 1,
+   "phrase": 340
+  },
+  "Ghana": {
+   "capital": "Accra",
+   "cooc": 1242307,
+   "cooc_approx": true,
+   "cap": 1771585,
+   "cap_ntok": 2,
+   "phrase": 217
+  },
+  "Greece": {
+   "capital": "Athens",
+   "cooc": 4090361,
+   "cooc_approx": true,
+   "cap": 9905313,
+   "cap_ntok": 2,
+   "phrase": 252
+  },
+  "Hungary": {
+   "capital": "Budapest",
+   "cooc": 1337042,
+   "cooc_approx": true,
+   "cap": 4448941,
+   "cap_ntok": 1,
+   "phrase": 215
+  },
+  "Iceland": {
+   "capital": "Reykjavik",
+   "cooc": 1295644,
+   "cooc_approx": true,
+   "cap": 1019072,
+   "cap_ntok": 4,
+   "phrase": 169
+  },
+  "India": {
+   "capital": "New Delhi",
+   "cooc": 7094686,
+   "cooc_approx": true,
+   "cap": 7079057,
+   "cap_ntok": 3,
+   "phrase": 490
+  },
+  "Indonesia": {
+   "capital": "Jakarta",
+   "cooc": 1418003,
+   "cooc_approx": true,
+   "cap": 3963713,
+   "cap_ntok": 2,
+   "phrase": 369
+  },
+  "Iran": {
+   "capital": "Tehran",
+   "cooc": 7379825,
+   "cooc_approx": true,
+   "cap": 4857071,
+   "cap_ntok": 3,
+   "phrase": 174
+  },
+  "Iraq": {
+   "capital": "Baghdad",
+   "cooc": 3584678,
+   "cooc_approx": true,
+   "cap": 3940203,
+   "cap_ntok": 3,
+   "phrase": 110
+  },
+  "Ireland": {
+   "capital": "Dublin",
+   "cooc": 20729841,
+   "cooc_approx": true,
+   "cap": 15466971,
+   "cap_ntok": 1,
+   "phrase": 255
+  },
+  "Israel": {
+   "capital": "Jerusalem",
+   "cooc": 17485071,
+   "cooc_approx": true,
+   "cap": 15863330,
+   "cap_ntok": 1,
+   "phrase": 407
+  },
+  "Italy": {
+   "capital": "Rome",
+   "cooc": 0,
+   "cooc_approx": true,
+   "cap": 29301569,
+   "cap_ntok": 1,
+   "phrase": 435
+  },
+  "Japan": {
+   "capital": "Tokyo",
+   "cooc": 5318128,
+   "cooc_approx": true,
+   "cap": 20489597,
+   "cap_ntok": 1,
+   "phrase": 395
+  },
+  "Jordan": {
+   "capital": "Amman",
+   "cooc": 421955,
+   "cooc_approx": true,
+   "cap": 1183125,
+   "cap_ntok": 2,
+   "phrase": 128
+  },
+  "Kazakhstan": {
+   "capital": "Astana",
+   "cooc": 327513,
+   "cooc_approx": true,
+   "cap": 719995,
+   "cap_ntok": 2,
+   "phrase": 128
+  },
+  "Kenya": {
+   "capital": "Nairobi",
+   "cooc": 1847812,
+   "cooc_approx": true,
+   "cap": 3907924,
+   "cap_ntok": 3,
+   "phrase": 202
+  },
+  "Latvia": {
+   "capital": "Riga",
+   "cooc": 1046348,
+   "cooc_approx": true,
+   "cap": 1469779,
+   "cap_ntok": 2,
+   "phrase": 214
+  },
+  "Lebanon": {
+   "capital": "Beirut",
+   "cooc": 1316163,
+   "cooc_approx": true,
+   "cap": 2602036,
+   "cap_ntok": 3,
+   "phrase": 127
+  },
+  "Libya": {
+   "capital": "Tripoli",
+   "cooc": 850995,
+   "cooc_approx": true,
+   "cap": 1333594,
+   "cap_ntok": 3,
+   "phrase": 88
+  },
+  "Lithuania": {
+   "capital": "Vilnius",
+   "cooc": 811012,
+   "cooc_approx": true,
+   "cap": 1066877,
+   "cap_ntok": 2,
+   "phrase": 193
+  },
+  "Malaysia": {
+   "capital": "Kuala Lumpur",
+   "cooc": 2065664,
+   "cooc_approx": true,
+   "cap": 3521684,
+   "cap_ntok": 6,
+   "phrase": 370
+  },
+  "Mexico": {
+   "capital": "Mexico City",
+   "cooc": 3011624,
+   "cooc_approx": true,
+   "cap": 3653111,
+   "cap_ntok": 2,
+   "phrase": 244
+  },
+  "Mongolia": {
+   "capital": "Ulaanbaatar",
+   "cooc": 212810,
+   "cooc_approx": true,
+   "cap": 273152,
+   "cap_ntok": 5,
+   "phrase": 104
+  },
+  "Morocco": {
+   "capital": "Rabat",
+   "cooc": 515282,
+   "cooc_approx": true,
+   "cap": 567978,
+   "cap_ntok": 2,
+   "phrase": 293
+  },
+  "Nepal": {
+   "capital": "Kathmandu",
+   "cooc": 2946544,
+   "cooc_approx": true,
+   "cap": 2716625,
+   "cap_ntok": 4,
+   "phrase": 243
+  },
+  "Netherlands": {
+   "capital": "Amsterdam",
+   "cooc": 4817013,
+   "cooc_approx": true,
+   "cap": 12551857,
+   "cap_ntok": 1,
+   "phrase": 47
+  },
+  "New Zealand": {
+   "capital": "Wellington",
+   "cooc": 1459144,
+   "cooc_approx": true,
+   "cap": 6717465,
+   "cap_ntok": 2,
+   "phrase": 346
+  },
+  "Nigeria": {
+   "capital": "Abuja",
+   "cooc": 1273293,
+   "cooc_approx": true,
+   "cap": 2773395,
+   "cap_ntok": 3,
+   "phrase": 161
+  },
+  "Norway": {
+   "capital": "Oslo",
+   "cooc": 1651712,
+   "cooc_approx": true,
+   "cap": 3932837,
+   "cap_ntok": 2,
+   "phrase": 231
+  },
+  "Pakistan": {
+   "capital": "Islamabad",
+   "cooc": 2794909,
+   "cooc_approx": true,
+   "cap": 2796640,
+   "cap_ntok": 2,
+   "phrase": 267
+  },
+  "Peru": {
+   "capital": "Lima",
+   "cooc": 1483101,
+   "cooc_approx": true,
+   "cap": 3647816,
+   "cap_ntok": 1,
+   "phrase": 201
+  },
+  "Philippines": {
+   "capital": "Manila",
+   "cooc": 3121766,
+   "cooc_approx": true,
+   "cap": 6433558,
+   "cap_ntok": 2,
+   "phrase": 55
+  },
+  "Poland": {
+   "capital": "Warsaw",
+   "cooc": 1431857,
+   "cooc_approx": true,
+   "cap": 4596199,
+   "cap_ntok": 2,
+   "phrase": 225
+  },
+  "Portugal": {
+   "capital": "Lisbon",
+   "cooc": 1458042,
+   "cooc_approx": true,
+   "cap": 4953279,
+   "cap_ntok": 2,
+   "phrase": 195
+  },
+  "Qatar": {
+   "capital": "Doha",
+   "cooc": 2097736,
+   "cooc_approx": true,
+   "cap": 2386555,
+   "cap_ntok": 3,
+   "phrase": 136
+  },
+  "Romania": {
+   "capital": "Bucharest",
+   "cooc": 5790829,
+   "cooc_approx": true,
+   "cap": 1921802,
+   "cap_ntok": 3,
+   "phrase": 212
+  },
+  "Russia": {
+   "capital": "Moscow",
+   "cooc": 1896518,
+   "cooc_approx": true,
+   "cap": 17427836,
+   "cap_ntok": 1,
+   "phrase": 567
+  },
+  "Saudi Arabia": {
+   "capital": "Riyadh",
+   "cooc": 1188823,
+   "cooc_approx": true,
+   "cap": 1730354,
+   "cap_ntok": 4,
+   "phrase": 110
+  },
+  "Senegal": {
+   "capital": "Dakar",
+   "cooc": 118868,
+   "cooc_approx": true,
+   "cap": 1120759,
+   "cap_ntok": 2,
+   "phrase": 92
+  },
+  "Serbia": {
+   "capital": "Belgrade",
+   "cooc": 1014755,
+   "cooc_approx": true,
+   "cap": 2464680,
+   "cap_ntok": 2,
+   "phrase": 170
+  },
+  "Slovakia": {
+   "capital": "Bratislava",
+   "cooc": 624615,
+   "cooc_approx": true,
+   "cap": 1003946,
+   "cap_ntok": 3,
+   "phrase": 157
+  },
+  "South Korea": {
+   "capital": "Seoul",
+   "cooc": 1218689,
+   "cooc_approx": true,
+   "cap": 6647674,
+   "cap_ntok": 2,
+   "phrase": 200
+  },
+  "Spain": {
+   "capital": "Madrid",
+   "cooc": 4896772,
+   "cooc_approx": true,
+   "cap": 16716649,
+   "cap_ntok": 1,
+   "phrase": 421
+  },
+  "Sudan": {
+   "capital": "Khartoum",
+   "cooc": 882506,
+   "cooc_approx": true,
+   "cap": 825573,
+   "cap_ntok": 4,
+   "phrase": 114
+  },
+  "Sweden": {
+   "capital": "Stockholm",
+   "cooc": 2072463,
+   "cooc_approx": true,
+   "cap": 6235091,
+   "cap_ntok": 1,
+   "phrase": 349
+  },
+  "Syria": {
+   "capital": "Damascus",
+   "cooc": 1769727,
+   "cooc_approx": true,
+   "cap": 2775112,
+   "cap_ntok": 3,
+   "phrase": 117
+  },
+  "Taiwan": {
+   "capital": "Taipei",
+   "cooc": 2435013,
+   "cooc_approx": true,
+   "cap": 3286604,
+   "cap_ntok": 3,
+   "phrase": 125
+  },
+  "Thailand": {
+   "capital": "Bangkok",
+   "cooc": 4651079,
+   "cooc_approx": true,
+   "cap": 7304282,
+   "cap_ntok": 3,
+   "phrase": 337
+  },
+  "Tunisia": {
+   "capital": "Tunis",
+   "cooc": 1956229,
+   "cooc_approx": true,
+   "cap": 5657616,
+   "cap_ntok": 2,
+   "phrase": 87
+  },
+  "Turkey": {
+   "capital": "Ankara",
+   "cooc": 3261648,
+   "cooc_approx": true,
+   "cap": 2225772,
+   "cap_ntok": 3,
+   "phrase": 494
+  },
+  "Uganda": {
+   "capital": "Kampala",
+   "cooc": 976359,
+   "cooc_approx": true,
+   "cap": 1247192,
+   "cap_ntok": 3,
+   "phrase": 136
+  },
+  "Ukraine": {
+   "capital": "Kyiv",
+   "cooc": 10442961,
+   "cooc_approx": true,
+   "cap": 2652021,
+   "cap_ntok": 2,
+   "phrase": 188
+  },
+  "Uruguay": {
+   "capital": "Montevideo",
+   "cooc": 672521,
+   "cooc_approx": true,
+   "cap": 547923,
+   "cap_ntok": 2,
+   "phrase": 99
+  },
+  "Venezuela": {
+   "capital": "Caracas",
+   "cooc": 556080,
+   "cooc_approx": true,
+   "cap": 881085,
+   "cap_ntok": 3,
+   "phrase": 117
+  },
+  "Vietnam": {
+   "capital": "Hanoi",
+   "cooc": 4124012,
+   "cooc_approx": true,
+   "cap": 3099703,
+   "cap_ntok": 3,
+   "phrase": 448
+  },
+  "Zimbabwe": {
+   "capital": "Harare",
+   "cooc": 1027916,
+   "cooc_approx": true,
+   "cap": 1018419,
+   "cap_ntok": 2,
+   "phrase": 118
+  }
+ }
+}

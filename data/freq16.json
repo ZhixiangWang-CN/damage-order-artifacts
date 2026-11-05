@@ -1,0 +1,2409 @@
+{
+ "index": "v4_dolma-v1_7_llama",
+ "counts": {
+  "SCIQ|14th": {
+   "count": 17729518,
+   "ntok": 3
+  },
+  "SCIQ|200": {
+   "count": 1290584087,
+   "ntok": 3
+  },
+  "SCIQ|206": {
+   "count": 20601804,
+   "ntok": 3
+  },
+  "SCIQ|6": {
+   "count": 5960085766,
+   "ntok": 1
+  },
+  "SCIQ|a seed": {
+   "count": 2405941,
+   "ntok": 2
+  },
+  "SCIQ|about 2 km": {
+   "count": 73716,
+   "ntok": 4
+  },
+  "SCIQ|adaptive immune system": {
+   "count": 136809,
+   "ntok": 5
+  },
+  "SCIQ|aging": {
+   "count": 23889514,
+   "ntok": 2
+  },
+  "SCIQ|algae": {
+   "count": 6628415,
+   "ntok": 2
+  },
+  "SCIQ|alleles": {
+   "count": 3136010,
+   "ntok": 2
+  },
+  "SCIQ|allopolyploids": {
+   "count": 14200,
+   "ntok": 5
+  },
+  "SCIQ|alternation of generation": {
+   "count": 2094,
+   "ntok": 4
+  },
+  "SCIQ|alveoli": {
+   "count": 555071,
+   "ntok": 3
+  },
+  "SCIQ|amino acid": {
+   "count": 6947220,
+   "ntok": 3
+  },
+  "SCIQ|amino acids": {
+   "count": 8022806,
+   "ntok": 4
+  },
+  "SCIQ|amniotic": {
+   "count": 889171,
+   "ntok": 3
+  },
+  "SCIQ|amoebozoans": {
+   "count": 1592,
+   "ntok": 6
+  },
+  "SCIQ|analytical balance": {
+   "count": 36636,
+   "ntok": 3
+  },
+  "SCIQ|angiosperms": {
+   "count": 233271,
+   "ntok": 4
+  },
+  "SCIQ|animals": {
+   "count": 102088779,
+   "ntok": 1
+  },
+  "SCIQ|anterior-posterior axis": {
+   "count": 20111,
+   "ntok": 6
+  },
+  "SCIQ|antioxidants": {
+   "count": 7678882,
+   "ntok": 5
+  },
+  "SCIQ|antiviral drugs": {
+   "count": 304018,
+   "ntok": 5
+  },
+  "SCIQ|as decomposers": {
+   "count": 7366,
+   "ntok": 4
+  },
+  "SCIQ|aspirin": {
+   "count": 3878936,
+   "ntok": 3
+  },
+  "SCIQ|atoms": {
+   "count": 12671989,
+   "ntok": 1
+  },
+  "SCIQ|axis": {
+   "count": 28048232,
+   "ntok": 1
+  },
+  "SCIQ|backbone": {
+   "count": 7428677,
+   "ntok": 2
+  },
+  "SCIQ|bacteria": {
+   "count": 37463989,
+   "ntok": 3
+  },
+  "SCIQ|balance of ecosystems": {
+   "count": 5329,
+   "ntok": 6
+  },
+  "SCIQ|bar graph": {
+   "count": 390763,
+   "ntok": 2
+  },
+  "SCIQ|bases": {
+   "count": 20047460,
+   "ntok": 1
+  },
+  "SCIQ|bear weight": {
+   "count": 81435,
+   "ntok": 2
+  },
+  "SCIQ|biology": {
+   "count": 19857720,
+   "ntok": 2
+  },
+  "SCIQ|birds": {
+   "count": 44513102,
+   "ntok": 1
+  },
+  "SCIQ|blood cells": {
+   "count": 4429263,
+   "ntok": 2
+  },
+  "SCIQ|blue": {
+   "count": 134403336,
+   "ntok": 1
+  },
+  "SCIQ|bone marrow": {
+   "count": 4930647,
+   "ntok": 4
+  },
+  "SCIQ|branchial arches": {
+   "count": 18618,
+   "ntok": 4
+  },
+  "SCIQ|capillary": {
+   "count": 3180634,
+   "ntok": 3
+  },
+  "SCIQ|carbon": {
+   "count": 70575940,
+   "ntok": 1
+  },
+  "SCIQ|carbon chains": {
+   "count": 39414,
+   "ntok": 3
+  },
+  "SCIQ|cell": {
+   "count": 224151864,
+   "ntok": 1
+  },
+  "SCIQ|cell body": {
+   "count": 281231,
+   "ntok": 2
+  },
+  "SCIQ|cell division": {
+   "count": 1207960,
+   "ntok": 2
+  },
+  "SCIQ|cell membrane": {
+   "count": 1454200,
+   "ntok": 3
+  },
+  "SCIQ|cell-level organization": {
+   "count": 27,
+   "ntok": 4
+  },
+  "SCIQ|cells": {
+   "count": 205913940,
+   "ntok": 1
+  },
+  "SCIQ|cellular respiration": {
+   "count": 211974,
+   "ntok": 4
+  },
+  "SCIQ|cenozoic era": {
+   "count": 833,
+   "ntok": 6
+  },
+  "SCIQ|chemical bonds": {
+   "count": 233039,
+   "ntok": 3
+  },
+  "SCIQ|chemiosmosis": {
+   "count": 9122,
+   "ntok": 4
+  },
+  "SCIQ|chemistry": {
+   "count": 25204128,
+   "ntok": 2
+  },
+  "SCIQ|cilia": {
+   "count": 720966,
+   "ntok": 2
+  },
+  "SCIQ|citric acid": {
+   "count": 1149034,
+   "ntok": 3
+  },
+  "SCIQ|clouds and dust": {
+   "count": 3212,
+   "ntok": 3
+  },
+  "SCIQ|colony": {
+   "count": 10679132,
+   "ntok": 2
+  },
+  "SCIQ|communities": {
+   "count": 104553306,
+   "ntok": 1
+  },
+  "SCIQ|compact bone": {
+   "count": 31387,
+   "ntok": 3
+  },
+  "SCIQ|condense": {
+   "count": 1165420,
+   "ntok": 3
+  },
+  "SCIQ|continental drift": {
+   "count": 88035,
+   "ntok": 4
+  },
+  "SCIQ|convex": {
+   "count": 6676174,
+   "ntok": 1
+  },
+  "SCIQ|corolla": {
+   "count": 389368,
+   "ntok": 3
+  },
+  "SCIQ|cuticle": {
+   "count": 1053769,
+   "ntok": 2
+  },
+  "SCIQ|day length": {
+   "count": 175838,
+   "ntok": 2
+  },
+  "SCIQ|deceleration": {
+   "count": 1114311,
+   "ntok": 3
+  },
+  "SCIQ|deciduous": {
+   "count": 1742158,
+   "ntok": 2
+  },
+  "SCIQ|decomposers": {
+   "count": 133490,
+   "ntok": 3
+  },
+  "SCIQ|derived units": {
+   "count": 17138,
+   "ntok": 2
+  },
+  "SCIQ|diffusion": {
+   "count": 10678442,
+   "ntok": 1
+  },
+  "SCIQ|digestive system": {
+   "count": 2976702,
+   "ntok": 4
+  },
+  "SCIQ|direction": {
+   "count": 126464096,
+   "ntok": 1
+  },
+  "SCIQ|dry ice": {
+   "count": 675138,
+   "ntok": 2
+  },
+  "SCIQ|dynamic": {
+   "count": 62788766,
+   "ntok": 1
+  },
+  "SCIQ|echo": {
+   "count": 49747021,
+   "ntok": 1
+  },
+  "SCIQ|ecology": {
+   "count": 6837930,
+   "ntok": 3
+  },
+  "SCIQ|electrical charge": {
+   "count": 272679,
+   "ntok": 3
+  },
+  "SCIQ|electricity": {
+   "count": 43730180,
+   "ntok": 2
+  },
+  "SCIQ|electroluminescence": {
+   "count": 74796,
+   "ntok": 6
+  },
+  "SCIQ|element": {
+   "count": 106312196,
+   "ntok": 1
+  },
+  "SCIQ|embryo": {
+   "count": 4827988,
+   "ntok": 3
+  },
+  "SCIQ|endocrine diseases": {
+   "count": 39398,
+   "ntok": 5
+  },
+  "SCIQ|energy": {
+   "count": 328804182,
+   "ntok": 1
+  },
+  "SCIQ|enzymes": {
+   "count": 12547525,
+   "ntok": 3
+  },
+  "SCIQ|equilibrium": {
+   "count": 13175748,
+   "ntok": 1
+  },
+  "SCIQ|eruption is close": {
+   "count": 99,
+   "ntok": 5
+  },
+  "SCIQ|ethology": {
+   "count": 104766,
+   "ntok": 2
+  },
+  "SCIQ|eukaryotic": {
+   "count": 1585969,
+   "ntok": 4
+  },
+  "SCIQ|evaporation": {
+   "count": 3741139,
+   "ntok": 3
+  },
+  "SCIQ|every 12 hours": {
+   "count": 220455,
+   "ntok": 5
+  },
+  "SCIQ|evolution": {
+   "count": 57661796,
+   "ntok": 1
+  },
+  "SCIQ|exothermic process": {
+   "count": 17832,
+   "ntok": 5
+  },
+  "SCIQ|expanding universe": {
+   "count": 121000,
+   "ntok": 3
+  },
+  "SCIQ|favorable trait": {
+   "count": 2638,
+   "ntok": 3
+  },
+  "SCIQ|fight-or-flight": {
+   "count": 217573,
+   "ntok": 6
+  },
+  "SCIQ|fission": {
+   "count": 1768712,
+   "ntok": 2
+  },
+  "SCIQ|five": {
+   "count": 314726489,
+   "ntok": 1
+  },
+  "SCIQ|flowers": {
+   "count": 58361334,
+   "ntok": 1
+  },
+  "SCIQ|fossil record": {
+   "count": 516347,
+   "ntok": 3
+  },
+  "SCIQ|fossils": {
+   "count": 3295739,
+   "ntok": 2
+  },
+  "SCIQ|frederick cottrell": {
+   "count": 13,
+   "ntok": 6
+  },
+  "SCIQ|freshwater biomes": {
+   "count": 4502,
+   "ntok": 5
+  },
+  "SCIQ|friction": {
+   "count": 11942378,
+   "ntok": 2
+  },
+  "SCIQ|frontal": {
+   "count": 4521231,
+   "ntok": 2
+  },
+  "SCIQ|fungi": {
+   "count": 6327497,
+   "ntok": 2
+  },
+  "SCIQ|fuse": {
+   "count": 6692508,
+   "ntok": 2
+  },
+  "SCIQ|galaxies": {
+   "count": 10798533,
+   "ntok": 1
+  },
+  "SCIQ|genetic code": {
+   "count": 546980,
+   "ntok": 3
+  },
+  "SCIQ|genetic drift": {
+   "count": 176468,
+   "ntok": 4
+  },
+  "SCIQ|genetic variation": {
+   "count": 795963,
+   "ntok": 3
+  },
+  "SCIQ|glycogen": {
+   "count": 2117865,
+   "ntok": 4
+  },
+  "SCIQ|golden eagles": {
+   "count": 118651,
+   "ntok": 4
+  },
+  "SCIQ|hearing": {
+   "count": 81013650,
+   "ntok": 1
+  },
+  "SCIQ|heat": {
+   "count": 142109794,
+   "ntok": 1
+  },
+  "SCIQ|heated": {
+   "count": 18776711,
+   "ntok": 2
+  },
+  "SCIQ|help digest food": {
+   "count": 16328,
+   "ntok": 4
+  },
+  "SCIQ|hemodialysis": {
+   "count": 1145210,
+   "ntok": 4
+  },
+  "SCIQ|hemoglobin": {
+   "count": 3213589,
+   "ntok": 4
+  },
+  "SCIQ|highly viscous": {
+   "count": 65495,
+   "ntok": 4
+  },
+  "SCIQ|horizontal layers": {
+   "count": 31821,
+   "ntok": 2
+  },
+  "SCIQ|human activities": {
+   "count": 1128559,
+   "ntok": 2
+  },
+  "SCIQ|hydrocarbons": {
+   "count": 2279023,
+   "ntok": 4
+  },
+  "SCIQ|hydrogen": {
+   "count": 20374300,
+   "ntok": 2
+  },
+  "SCIQ|hydroxide ions": {
+   "count": 50317,
+   "ntok": 5
+  },
+  "SCIQ|hydroxl groups": {
+   "count": 145,
+   "ntok": 3
+  },
+  "SCIQ|ideal": {
+   "count": 107465686,
+   "ntok": 1
+  },
+  "SCIQ|impermeable": {
+   "count": 513263,
+   "ntok": 3
+  },
+  "SCIQ|inclined plane": {
+   "count": 129061,
+   "ntok": 3
+  },
+  "SCIQ|inhibitor": {
+   "count": 11305247,
+   "ntok": 3
+  },
+  "SCIQ|insects": {
+   "count": 14621426,
+   "ntok": 2
+  },
+  "SCIQ|ionic compound": {
+   "count": 66039,
+   "ntok": 4
+  },
+  "SCIQ|ionic compounds": {
+   "count": 82296,
+   "ntok": 4
+  },
+  "SCIQ|ionization energy": {
+   "count": 100514,
+   "ntok": 3
+  },
+  "SCIQ|isotopes": {
+   "count": 1712992,
+   "ntok": 4
+  },
+  "SCIQ|it increases it": {
+   "count": 8693,
+   "ntok": 3
+  },
+  "SCIQ|it repeats itself": {
+   "count": 13831,
+   "ntok": 4
+  },
+  "SCIQ|it will float": {
+   "count": 30402,
+   "ntok": 3
+  },
+  "SCIQ|ketones": {
+   "count": 1273789,
+   "ntok": 3
+  },
+  "SCIQ|kingdom": {
+   "count": 22185650,
+   "ntok": 1
+  },
+  "SCIQ|krebs": {
+   "count": 35484,
+   "ntok": 2
+  },
+  "SCIQ|kuiper belt": {
+   "count": 3747,
+   "ntok": 5
+  },
+  "SCIQ|lamprey": {
+   "count": 201206,
+   "ntok": 2
+  },
+  "SCIQ|lead storage battery": {
+   "count": 1846,
+   "ntok": 3
+  },
+  "SCIQ|leaves": {
+   "count": 98879536,
+   "ntok": 1
+  },
+  "SCIQ|length": {
+   "count": 147863853,
+   "ntok": 1
+  },
+  "SCIQ|light": {
+   "count": 454245346,
+   "ntok": 1
+  },
+  "SCIQ|light reactions": {
+   "count": 25127,
+   "ntok": 3
+  },
+  "SCIQ|linear": {
+   "count": 53541919,
+   "ntok": 1
+  },
+  "SCIQ|linnaean system": {
+   "count": 224,
+   "ntok": 5
+  },
+  "SCIQ|longitudinal wave": {
+   "count": 40769,
+   "ntok": 3
+  },
+  "SCIQ|lungs": {
+   "count": 13896669,
+   "ntok": 2
+  },
+  "SCIQ|macronutrients": {
+   "count": 530893,
+   "ntok": 5
+  },
+  "SCIQ|magnetic fields": {
+   "count": 2143946,
+   "ntok": 2
+  },
+  "SCIQ|male reproductive system": {
+   "count": 99109,
+   "ntok": 5
+  },
+  "SCIQ|mass": {
+   "count": 156884792,
+   "ntok": 1
+  },
+  "SCIQ|mass extinction": {
+   "count": 340997,
+   "ntok": 3
+  },
+  "SCIQ|mechanical": {
+   "count": 37500668,
+   "ntok": 1
+  },
+  "SCIQ|mechanoreceptors": {
+   "count": 74374,
+   "ntok": 4
+  },
+  "SCIQ|medications": {
+   "count": 31252423,
+   "ntok": 2
+  },
+  "SCIQ|medulla": {
+   "count": 686458,
+   "ntok": 2
+  },
+  "SCIQ|meiosis": {
+   "count": 707664,
+   "ntok": 3
+  },
+  "SCIQ|meninges": {
+   "count": 200113,
+   "ntok": 3
+  },
+  "SCIQ|milk": {
+   "count": 73258813,
+   "ntok": 1
+  },
+  "SCIQ|models": {
+   "count": 171454548,
+   "ntok": 1
+  },
+  "SCIQ|molecular formula": {
+   "count": 197085,
+   "ntok": 3
+  },
+  "SCIQ|mouse": {
+   "count": 41915487,
+   "ntok": 1
+  },
+  "SCIQ|move": {
+   "count": 304059847,
+   "ntok": 1
+  },
+  "SCIQ|muscle": {
+   "count": 64610438,
+   "ntok": 2
+  },
+  "SCIQ|mushroom": {
+   "count": 7715388,
+   "ntok": 3
+  },
+  "SCIQ|mushrooms": {
+   "count": 12588978,
+   "ntok": 3
+  },
+  "SCIQ|natural selection": {
+   "count": 1530468,
+   "ntok": 2
+  },
+  "SCIQ|nervous": {
+   "count": 35397649,
+   "ntok": 2
+  },
+  "SCIQ|nervous system": {
+   "count": 10467386,
+   "ntok": 3
+  },
+  "SCIQ|net force": {
+   "count": 174380,
+   "ntok": 2
+  },
+  "SCIQ|net primary productivity": {
+   "count": 30256,
+   "ntok": 4
+  },
+  "SCIQ|nitrogen": {
+   "count": 14123623,
+   "ntok": 3
+  },
+  "SCIQ|nitrogen cycle": {
+   "count": 127679,
+   "ntok": 4
+  },
+  "SCIQ|norm of reaction": {
+   "count": 2936,
+   "ntok": 3
+  },
+  "SCIQ|nuclear": {
+   "count": 54975656,
+   "ntok": 1
+  },
+  "SCIQ|nucleic acids": {
+   "count": 847736,
+   "ntok": 4
+  },
+  "SCIQ|oceanic": {
+   "count": 1618859,
+   "ntok": 2
+  },
+  "SCIQ|opposite-headed": {
+   "count": 31,
+   "ntok": 4
+  },
+  "SCIQ|osmosis": {
+   "count": 1355171,
+   "ntok": 3
+  },
+  "SCIQ|ovarian": {
+   "count": 6656517,
+   "ntok": 3
+  },
+  "SCIQ|oxygen": {
+   "count": 36535843,
+   "ntok": 2
+  },
+  "SCIQ|parasite": {
+   "count": 4752066,
+   "ntok": 3
+  },
+  "SCIQ|pathogen": {
+   "count": 13918809,
+   "ntok": 2
+  },
+  "SCIQ|pedigree": {
+   "count": 2971775,
+   "ntok": 2
+  },
+  "SCIQ|peripheral nervous system": {
+   "count": 292346,
+   "ntok": 6
+  },
+  "SCIQ|phospholipids": {
+   "count": 753213,
+   "ntok": 5
+  },
+  "SCIQ|photoperiodism": {
+   "count": 12270,
+   "ntok": 4
+  },
+  "SCIQ|photosynthesis": {
+   "count": 2544426,
+   "ntok": 3
+  },
+  "SCIQ|physical": {
+   "count": 186133373,
+   "ntok": 1
+  },
+  "SCIQ|pi bonds": {
+   "count": 20934,
+   "ntok": 3
+  },
+  "SCIQ|pituitary": {
+   "count": 2677544,
+   "ntok": 4
+  },
+  "SCIQ|plant hormones": {
+   "count": 79126,
+   "ntok": 4
+  },
+  "SCIQ|plants": {
+   "count": 108953335,
+   "ntok": 1
+  },
+  "SCIQ|plasmodesmata": {
+   "count": 41972,
+   "ntok": 6
+  },
+  "SCIQ|polar and nonpolar": {
+   "count": 18849,
+   "ntok": 5
+  },
+  "SCIQ|pollinate": {
+   "count": 461629,
+   "ntok": 3
+  },
+  "SCIQ|producers": {
+   "count": 28419073,
+   "ntok": 2
+  },
+  "SCIQ|prophase i": {
+   "count": 595,
+   "ntok": 3
+  },
+  "SCIQ|proteins": {
+   "count": 42939676,
+   "ntok": 2
+  },
+  "SCIQ|protons": {
+   "count": 2540308,
+   "ntok": 2
+  },
+  "SCIQ|protons and neutrons": {
+   "count": 162605,
+   "ntok": 5
+  },
+  "SCIQ|protostomes": {
+   "count": 17542,
+   "ntok": 4
+  },
+  "SCIQ|proxima centauri": {
+   "count": 2102,
+   "ntok": 5
+  },
+  "SCIQ|pulley": {
+   "count": 2067966,
+   "ntok": 2
+  },
+  "SCIQ|pupa": {
+   "count": 292080,
+   "ntok": 2
+  },
+  "SCIQ|pupil": {
+   "count": 7351985,
+   "ntok": 2
+  },
+  "SCIQ|pyruvate": {
+   "count": 927012,
+   "ntok": 4
+  },
+  "SCIQ|radioactive elements": {
+   "count": 119514,
+   "ntok": 3
+  },
+  "SCIQ|reactants": {
+   "count": 728847,
+   "ntok": 2
+  },
+  "SCIQ|regular array": {
+   "count": 25321,
+   "ntok": 2
+  },
+  "SCIQ|remission": {
+   "count": 3747288,
+   "ntok": 2
+  },
+  "SCIQ|removed": {
+   "count": 91351479,
+   "ntok": 1
+  },
+  "SCIQ|reproduction": {
+   "count": 10456706,
+   "ntok": 2
+  },
+  "SCIQ|resistance": {
+   "count": 67355618,
+   "ntok": 1
+  },
+  "SCIQ|resonance": {
+   "count": 10938725,
+   "ntok": 2
+  },
+  "SCIQ|ribosomes": {
+   "count": 531540,
+   "ntok": 4
+  },
+  "SCIQ|rings": {
+   "count": 23784491,
+   "ntok": 1
+  },
+  "SCIQ|rods and cones": {
+   "count": 68554,
+   "ntok": 5
+  },
+  "SCIQ|scavengers": {
+   "count": 637069,
+   "ntok": 3
+  },
+  "SCIQ|seafloor spreading": {
+   "count": 26892,
+   "ntok": 5
+  },
+  "SCIQ|second": {
+   "count": 528086317,
+   "ntok": 1
+  },
+  "SCIQ|sedimentary": {
+   "count": 1552962,
+   "ntok": 3
+  },
+  "SCIQ|seed and pollen": {
+   "count": 4051,
+   "ntok": 4
+  },
+  "SCIQ|seed plants": {
+   "count": 65849,
+   "ntok": 2
+  },
+  "SCIQ|sensory": {
+   "count": 12292628,
+   "ntok": 2
+  },
+  "SCIQ|sensory nerve cells": {
+   "count": 3433,
+   "ntok": 5
+  },
+  "SCIQ|sex-linked traits": {
+   "count": 2981,
+   "ntok": 6
+  },
+  "SCIQ|shingles": {
+   "count": 3577162,
+   "ntok": 3
+  },
+  "SCIQ|small intestine": {
+   "count": 1795954,
+   "ntok": 4
+  },
+  "SCIQ|solubility": {
+   "count": 2317428,
+   "ntok": 3
+  },
+  "SCIQ|solution": {
+   "count": 215063201,
+   "ntok": 1
+  },
+  "SCIQ|solvent": {
+   "count": 10782323,
+   "ntok": 2
+  },
+  "SCIQ|sonar": {
+   "count": 1482305,
+   "ntok": 2
+  },
+  "SCIQ|sound": {
+   "count": 244355934,
+   "ntok": 1
+  },
+  "SCIQ|specific gravity": {
+   "count": 516131,
+   "ntok": 2
+  },
+  "SCIQ|specific ions": {
+   "count": 9618,
+   "ntok": 3
+  },
+  "SCIQ|sperm": {
+   "count": 10408477,
+   "ntok": 2
+  },
+  "SCIQ|spring": {
+   "count": 96732443,
+   "ntok": 1
+  },
+  "SCIQ|sublimation": {
+   "count": 791454,
+   "ntok": 3
+  },
+  "SCIQ|sun": {
+   "count": 180219384,
+   "ntok": 1
+  },
+  "SCIQ|sweat glands": {
+   "count": 377436,
+   "ntok": 4
+  },
+  "SCIQ|tadpole": {
+   "count": 360082,
+   "ntok": 3
+  },
+  "SCIQ|technological design": {
+   "count": 29529,
+   "ntok": 3
+  },
+  "SCIQ|tendons": {
+   "count": 2564406,
+   "ntok": 2
+  },
+  "SCIQ|terrestrial biomes": {
+   "count": 8950,
+   "ntok": 5
+  },
+  "SCIQ|the cranium": {
+   "count": 165795,
+   "ntok": 4
+  },
+  "SCIQ|the reaction rate": {
+   "count": 152458,
+   "ntok": 3
+  },
+  "SCIQ|the skin": {
+   "count": 40669766,
+   "ntok": 2
+  },
+  "SCIQ|the synapse": {
+   "count": 208828,
+   "ntok": 4
+  },
+  "SCIQ|the testes": {
+   "count": 356647,
+   "ntok": 3
+  },
+  "SCIQ|the walls": {
+   "count": 16902879,
+   "ntok": 2
+  },
+  "SCIQ|thermal energy": {
+   "count": 964549,
+   "ntok": 2
+  },
+  "SCIQ|three": {
+   "count": 752358027,
+   "ntok": 1
+  },
+  "SCIQ|topographic": {
+   "count": 1410315,
+   "ntok": 2
+  },
+  "SCIQ|transform plate boundary": {
+   "count": 2155,
+   "ntok": 3
+  },
+  "SCIQ|transporting electrcal energy": {
+   "count": 5,
+   "ntok": 6
+  },
+  "SCIQ|troposphere": {
+   "count": 544838,
+   "ntok": 3
+  },
+  "SCIQ|tumor": {
+   "count": 36044440,
+   "ntok": 2
+  },
+  "SCIQ|turning driveshaft": {
+   "count": 88,
+   "ntok": 4
+  },
+  "SCIQ|two": {
+   "count": 1561942801,
+   "ntok": 1
+  },
+  "SCIQ|vaccine": {
+   "count": 39149430,
+   "ntok": 3
+  },
+  "SCIQ|vestibular system": {
+   "count": 148160,
+   "ntok": 4
+  },
+  "SCIQ|vision": {
+   "count": 91886685,
+   "ntok": 1
+  },
+  "SCIQ|voltage": {
+   "count": 29937377,
+   "ntok": 1
+  },
+  "SCIQ|voltaic cells": {
+   "count": 17286,
+   "ntok": 3
+  },
+  "SCIQ|wings": {
+   "count": 21816628,
+   "ntok": 1
+  },
+  "SCIQ|winter": {
+   "count": 103461524,
+   "ntok": 1
+  },
+  "RETR|101": {
+   "count": 75080759,
+   "ntok": 3
+  },
+  "RETR|102": {
+   "count": 50846466,
+   "ntok": 3
+  },
+  "RETR|106": {
+   "count": 33935293,
+   "ntok": 3
+  },
+  "RETR|114": {
+   "count": 27769183,
+   "ntok": 3
+  },
+  "RETR|116": {
+   "count": 26748108,
+   "ntok": 3
+  },
+  "RETR|117": {
+   "count": 25869225,
+   "ntok": 3
+  },
+  "RETR|119": {
+   "count": 24604072,
+   "ntok": 3
+  },
+  "RETR|120": {
+   "count": 90261898,
+   "ntok": 3
+  },
+  "RETR|123": {
+   "count": 45277467,
+   "ntok": 3
+  },
+  "RETR|125": {
+   "count": 47339634,
+   "ntok": 3
+  },
+  "RETR|127": {
+   "count": 29457328,
+   "ntok": 3
+  },
+  "RETR|130": {
+   "count": 51071960,
+   "ntok": 3
+  },
+  "RETR|131": {
+   "count": 25186166,
+   "ntok": 3
+  },
+  "RETR|132": {
+   "count": 23747350,
+   "ntok": 3
+  },
+  "RETR|133": {
+   "count": 23339224,
+   "ntok": 3
+  },
+  "RETR|140": {
+   "count": 48609850,
+   "ntok": 3
+  },
+  "RETR|142": {
+   "count": 21325227,
+   "ntok": 3
+  },
+  "RETR|143": {
+   "count": 20245369,
+   "ntok": 3
+  },
+  "RETR|145": {
+   "count": 25011472,
+   "ntok": 3
+  },
+  "RETR|151": {
+   "count": 23198011,
+   "ntok": 3
+  },
+  "RETR|154": {
+   "count": 19925931,
+   "ntok": 3
+  },
+  "RETR|157": {
+   "count": 19416288,
+   "ntok": 3
+  },
+  "RETR|158": {
+   "count": 18830757,
+   "ntok": 3
+  },
+  "RETR|165": {
+   "count": 23665789,
+   "ntok": 3
+  },
+  "RETR|166": {
+   "count": 20290617,
+   "ntok": 3
+  },
+  "RETR|169": {
+   "count": 18776690,
+   "ntok": 3
+  },
+  "RETR|170": {
+   "count": 39173492,
+   "ntok": 3
+  },
+  "RETR|175": {
+   "count": 28716424,
+   "ntok": 3
+  },
+  "RETR|176": {
+   "count": 20998664,
+   "ntok": 3
+  },
+  "RETR|180": {
+   "count": 73170854,
+   "ntok": 3
+  },
+  "RETR|195": {
+   "count": 114652208,
+   "ntok": 3
+  },
+  "RETR|196": {
+   "count": 158379398,
+   "ntok": 3
+  },
+  "RETR|198": {
+   "count": 262049206,
+   "ntok": 3
+  },
+  "RETR|202": {
+   "count": 619502651,
+   "ntok": 3
+  },
+  "RETR|204": {
+   "count": 25046781,
+   "ntok": 3
+  },
+  "RETR|212": {
+   "count": 21140592,
+   "ntok": 3
+  },
+  "RETR|213": {
+   "count": 16529864,
+   "ntok": 3
+  },
+  "RETR|215": {
+   "count": 18467573,
+   "ntok": 3
+  },
+  "RETR|216": {
+   "count": 16349354,
+   "ntok": 3
+  },
+  "RETR|217": {
+   "count": 16998686,
+   "ntok": 3
+  },
+  "RETR|218": {
+   "count": 14627389,
+   "ntok": 3
+  },
+  "RETR|219": {
+   "count": 14092786,
+   "ntok": 3
+  },
+  "RETR|227": {
+   "count": 13872468,
+   "ntok": 3
+  },
+  "RETR|232": {
+   "count": 16815486,
+   "ntok": 3
+  },
+  "RETR|234": {
+   "count": 24570727,
+   "ntok": 3
+  },
+  "RETR|242": {
+   "count": 14499141,
+   "ntok": 3
+  },
+  "RETR|244": {
+   "count": 13242951,
+   "ntok": 3
+  },
+  "RETR|246": {
+   "count": 12735651,
+   "ntok": 3
+  },
+  "RETR|250": {
+   "count": 84621162,
+   "ntok": 3
+  },
+  "RETR|252": {
+   "count": 16893876,
+   "ntok": 3
+  },
+  "RETR|260": {
+   "count": 22066194,
+   "ntok": 3
+  },
+  "RETR|262": {
+   "count": 13113288,
+   "ntok": 3
+  },
+  "RETR|263": {
+   "count": 11595300,
+   "ntok": 3
+  },
+  "RETR|266": {
+   "count": 12429160,
+   "ntok": 3
+  },
+  "RETR|267": {
+   "count": 11226291,
+   "ntok": 3
+  },
+  "RETR|270": {
+   "count": 22321262,
+   "ntok": 3
+  },
+  "RETR|274": {
+   "count": 11207713,
+   "ntok": 3
+  },
+  "RETR|277": {
+   "count": 11226344,
+   "ntok": 3
+  },
+  "RETR|279": {
+   "count": 10821891,
+   "ntok": 3
+  },
+  "RETR|281": {
+   "count": 12497092,
+   "ntok": 3
+  },
+  "RETR|284": {
+   "count": 10679973,
+   "ntok": 3
+  },
+  "RETR|288": {
+   "count": 11966910,
+   "ntok": 3
+  },
+  "RETR|289": {
+   "count": 10443580,
+   "ntok": 3
+  },
+  "RETR|290": {
+   "count": 15650198,
+   "ntok": 3
+  },
+  "RETR|304": {
+   "count": 15231967,
+   "ntok": 3
+  },
+  "RETR|305": {
+   "count": 14929777,
+   "ntok": 3
+  },
+  "RETR|307": {
+   "count": 13444611,
+   "ntok": 3
+  },
+  "RETR|309": {
+   "count": 11883267,
+   "ntok": 3
+  },
+  "RETR|313": {
+   "count": 13915694,
+   "ntok": 3
+  },
+  "RETR|318": {
+   "count": 11200258,
+   "ntok": 3
+  },
+  "RETR|320": {
+   "count": 27478794,
+   "ntok": 3
+  },
+  "RETR|323": {
+   "count": 13285363,
+   "ntok": 3
+  },
+  "RETR|331": {
+   "count": 11693068,
+   "ntok": 3
+  },
+  "RETR|332": {
+   "count": 11469234,
+   "ntok": 3
+  },
+  "RETR|336": {
+   "count": 11159603,
+   "ntok": 3
+  },
+  "RETR|345": {
+   "count": 18335501,
+   "ntok": 3
+  },
+  "RETR|347": {
+   "count": 9833610,
+   "ntok": 3
+  },
+  "RETR|349": {
+   "count": 9829250,
+   "ntok": 3
+  },
+  "RETR|350": {
+   "count": 46109897,
+   "ntok": 3
+  },
+  "RETR|351": {
+   "count": 10889722,
+   "ntok": 3
+  },
+  "RETR|352": {
+   "count": 11134662,
+   "ntok": 3
+  },
+  "RETR|354": {
+   "count": 10125411,
+   "ntok": 3
+  },
+  "RETR|357": {
+   "count": 10604814,
+   "ntok": 3
+  },
+  "RETR|361": {
+   "count": 10304099,
+   "ntok": 3
+  },
+  "RETR|363": {
+   "count": 10715325,
+   "ntok": 3
+  },
+  "RETR|365": {
+   "count": 28712919,
+   "ntok": 3
+  },
+  "RETR|371": {
+   "count": 10925740,
+   "ntok": 3
+  },
+  "RETR|373": {
+   "count": 10729405,
+   "ntok": 3
+  },
+  "RETR|393": {
+   "count": 9941176,
+   "ntok": 3
+  },
+  "RETR|395": {
+   "count": 9975204,
+   "ntok": 3
+  },
+  "RETR|399": {
+   "count": 10977303,
+   "ntok": 3
+  },
+  "RETR|400": {
+   "count": 134081460,
+   "ntok": 3
+  },
+  "RETR|405": {
+   "count": 12837101,
+   "ntok": 3
+  },
+  "RETR|407": {
+   "count": 10713110,
+   "ntok": 3
+  },
+  "RETR|412": {
+   "count": 11572242,
+   "ntok": 3
+  },
+  "RETR|413": {
+   "count": 10043682,
+   "ntok": 3
+  },
+  "RETR|416": {
+   "count": 10826811,
+   "ntok": 3
+  },
+  "RETR|418": {
+   "count": 9458385,
+   "ntok": 3
+  },
+  "RETR|422": {
+   "count": 10788415,
+   "ntok": 3
+  },
+  "RETR|427": {
+   "count": 9259492,
+   "ntok": 3
+  },
+  "RETR|428": {
+   "count": 9937703,
+   "ntok": 3
+  },
+  "RETR|429": {
+   "count": 9831774,
+   "ntok": 3
+  },
+  "RETR|433": {
+   "count": 9773812,
+   "ntok": 3
+  },
+  "RETR|435": {
+   "count": 10559329,
+   "ntok": 3
+  },
+  "RETR|438": {
+   "count": 8772833,
+   "ntok": 3
+  },
+  "RETR|441": {
+   "count": 10086969,
+   "ntok": 3
+  },
+  "RETR|449": {
+   "count": 8789155,
+   "ntok": 3
+  },
+  "RETR|452": {
+   "count": 9113873,
+   "ntok": 3
+  },
+  "RETR|453": {
+   "count": 9291364,
+   "ntok": 3
+  },
+  "RETR|457": {
+   "count": 9077256,
+   "ntok": 3
+  },
+  "RETR|462": {
+   "count": 8786644,
+   "ntok": 3
+  },
+  "RETR|471": {
+   "count": 9079047,
+   "ntok": 3
+  },
+  "RETR|476": {
+   "count": 8408790,
+   "ntok": 3
+  },
+  "RETR|485": {
+   "count": 10240550,
+   "ntok": 3
+  },
+  "RETR|487": {
+   "count": 8129617,
+   "ntok": 3
+  },
+  "RETR|488": {
+   "count": 9269126,
+   "ntok": 3
+  },
+  "RETR|490": {
+   "count": 11056797,
+   "ntok": 3
+  },
+  "RETR|493": {
+   "count": 7934935,
+   "ntok": 3
+  },
+  "RETR|495": {
+   "count": 9513402,
+   "ntok": 3
+  },
+  "RETR|497": {
+   "count": 7968701,
+   "ntok": 3
+  },
+  "RETR|500": {
+   "count": 249319533,
+   "ntok": 3
+  },
+  "RETR|503": {
+   "count": 11337306,
+   "ntok": 3
+  },
+  "RETR|517": {
+   "count": 8565274,
+   "ntok": 3
+  },
+  "RETR|523": {
+   "count": 9139366,
+   "ntok": 3
+  },
+  "RETR|524": {
+   "count": 8931845,
+   "ntok": 3
+  },
+  "RETR|525": {
+   "count": 11958276,
+   "ntok": 3
+  },
+  "RETR|526": {
+   "count": 8608962,
+   "ntok": 3
+  },
+  "RETR|527": {
+   "count": 8441412,
+   "ntok": 3
+  },
+  "RETR|529": {
+   "count": 9320137,
+   "ntok": 3
+  },
+  "RETR|533": {
+   "count": 8766479,
+   "ntok": 3
+  },
+  "RETR|537": {
+   "count": 8993568,
+   "ntok": 3
+  },
+  "RETR|540": {
+   "count": 13912127,
+   "ntok": 3
+  },
+  "RETR|541": {
+   "count": 8820983,
+   "ntok": 3
+  },
+  "RETR|542": {
+   "count": 8442800,
+   "ntok": 3
+  },
+  "RETR|543": {
+   "count": 8981418,
+   "ntok": 3
+  },
+  "RETR|546": {
+   "count": 8330421,
+   "ntok": 3
+  },
+  "RETR|547": {
+   "count": 8298369,
+   "ntok": 3
+  },
+  "RETR|548": {
+   "count": 7688800,
+   "ntok": 3
+  },
+  "RETR|549": {
+   "count": 9078821,
+   "ntok": 3
+  },
+  "RETR|550": {
+   "count": 22194776,
+   "ntok": 3
+  },
+  "RETR|552": {
+   "count": 8666693,
+   "ntok": 3
+  },
+  "RETR|553": {
+   "count": 10546242,
+   "ntok": 3
+  },
+  "RETR|558": {
+   "count": 7821085,
+   "ntok": 3
+  },
+  "RETR|566": {
+   "count": 8013373,
+   "ntok": 3
+  },
+  "RETR|570": {
+   "count": 12144590,
+   "ntok": 3
+  },
+  "RETR|577": {
+   "count": 7980135,
+   "ntok": 3
+  },
+  "RETR|594": {
+   "count": 7398007,
+   "ntok": 3
+  },
+  "RETR|596": {
+   "count": 7288451,
+   "ntok": 3
+  },
+  "RETR|597": {
+   "count": 7364642,
+   "ntok": 3
+  },
+  "RETR|599": {
+   "count": 9109187,
+   "ntok": 3
+  },
+  "RETR|606": {
+   "count": 10770878,
+   "ntok": 3
+  },
+  "RETR|607": {
+   "count": 8967721,
+   "ntok": 3
+  },
+  "RETR|608": {
+   "count": 9227465,
+   "ntok": 3
+  },
+  "RETR|609": {
+   "count": 9071453,
+   "ntok": 3
+  },
+  "RETR|610": {
+   "count": 13643407,
+   "ntok": 3
+  },
+  "RETR|611": {
+   "count": 9783155,
+   "ntok": 3
+  },
+  "RETR|612": {
+   "count": 10000711,
+   "ntok": 3
+  },
+  "RETR|614": {
+   "count": 8468486,
+   "ntok": 3
+  },
+  "RETR|615": {
+   "count": 9333686,
+   "ntok": 3
+  },
+  "RETR|617": {
+   "count": 10106325,
+   "ntok": 3
+  },
+  "RETR|618": {
+   "count": 8797745,
+   "ntok": 3
+  },
+  "RETR|625": {
+   "count": 13873557,
+   "ntok": 3
+  },
+  "RETR|626": {
+   "count": 8909988,
+   "ntok": 3
+  },
+  "RETR|630": {
+   "count": 12349187,
+   "ntok": 3
+  },
+  "RETR|632": {
+   "count": 8593601,
+   "ntok": 3
+  },
+  "RETR|639": {
+   "count": 7619589,
+   "ntok": 3
+  },
+  "RETR|643": {
+   "count": 7768333,
+   "ntok": 3
+  },
+  "RETR|644": {
+   "count": 8614239,
+   "ntok": 3
+  },
+  "RETR|646": {
+   "count": 8827427,
+   "ntok": 3
+  },
+  "RETR|647": {
+   "count": 8439603,
+   "ntok": 3
+  },
+  "RETR|648": {
+   "count": 7899617,
+   "ntok": 3
+  },
+  "RETR|649": {
+   "count": 7703422,
+   "ntok": 3
+  },
+  "RETR|650": {
+   "count": 23442723,
+   "ntok": 3
+  },
+  "RETR|651": {
+   "count": 8050687,
+   "ntok": 3
+  },
+  "RETR|653": {
+   "count": 7923781,
+   "ntok": 3
+  },
+  "RETR|655": {
+   "count": 10263852,
+   "ntok": 3
+  },
+  "RETR|661": {
+   "count": 7894687,
+   "ntok": 3
+  },
+  "RETR|669": {
+   "count": 7111076,
+   "ntok": 3
+  },
+  "RETR|676": {
+   "count": 8104581,
+   "ntok": 3
+  },
+  "RETR|677": {
+   "count": 7766325,
+   "ntok": 3
+  },
+  "RETR|679": {
+   "count": 7360316,
+   "ntok": 3
+  },
+  "RETR|680": {
+   "count": 12572041,
+   "ntok": 3
+  },
+  "RETR|681": {
+   "count": 7358455,
+   "ntok": 3
+  },
+  "RETR|690": {
+   "count": 9356053,
+   "ntok": 3
+  },
+  "RETR|694": {
+   "count": 6912189,
+   "ntok": 3
+  },
+  "RETR|700": {
+   "count": 68538730,
+   "ntok": 3
+  },
+  "RETR|714": {
+   "count": 8850354,
+   "ntok": 3
+  },
+  "RETR|717": {
+   "count": 8295344,
+   "ntok": 3
+  },
+  "RETR|727": {
+   "count": 8915681,
+   "ntok": 3
+  },
+  "RETR|730": {
+   "count": 10936754,
+   "ntok": 3
+  },
+  "RETR|737": {
+   "count": 11410497,
+   "ntok": 3
+  },
+  "RETR|742": {
+   "count": 7867424,
+   "ntok": 3
+  },
+  "RETR|745": {
+   "count": 8385127,
+   "ntok": 3
+  },
+  "RETR|747": {
+   "count": 9620451,
+   "ntok": 3
+  },
+  "RETR|749": {
+   "count": 7394515,
+   "ntok": 3
+  },
+  "RETR|756": {
+   "count": 7881254,
+   "ntok": 3
+  },
+  "RETR|760": {
+   "count": 11557150,
+   "ntok": 3
+  },
+  "RETR|761": {
+   "count": 7594074,
+   "ntok": 3
+  },
+  "RETR|764": {
+   "count": 7278208,
+   "ntok": 3
+  },
+  "RETR|765": {
+   "count": 9097423,
+   "ntok": 3
+  },
+  "RETR|772": {
+   "count": 8087783,
+   "ntok": 3
+  },
+  "RETR|773": {
+   "count": 7727703,
+   "ntok": 3
+  },
+  "RETR|774": {
+   "count": 7642770,
+   "ntok": 3
+  },
+  "RETR|775": {
+   "count": 9374423,
+   "ntok": 3
+  },
+  "RETR|778": {
+   "count": 8174346,
+   "ntok": 3
+  },
+  "RETR|782": {
+   "count": 7722692,
+   "ntok": 3
+  },
+  "RETR|785": {
+   "count": 7863273,
+   "ntok": 3
+  },
+  "RETR|786": {
+   "count": 7554896,
+   "ntok": 3
+  },
+  "RETR|792": {
+   "count": 8003253,
+   "ntok": 3
+  },
+  "RETR|808": {
+   "count": 17631104,
+   "ntok": 3
+  },
+  "RETR|814": {
+   "count": 9077359,
+   "ntok": 3
+  },
+  "RETR|815": {
+   "count": 9510349,
+   "ntok": 3
+  },
+  "RETR|818": {
+   "count": 10992766,
+   "ntok": 3
+  },
+  "RETR|823": {
+   "count": 8548669,
+   "ntok": 3
+  },
+  "RETR|824": {
+   "count": 8493809,
+   "ntok": 3
+  },
+  "RETR|827": {
+   "count": 7807273,
+   "ntok": 3
+  },
+  "RETR|830": {
+   "count": 12899097,
+   "ntok": 3
+  },
+  "RETR|833": {
+   "count": 9624976,
+   "ntok": 3
+  },
+  "RETR|836": {
+   "count": 9064902,
+   "ntok": 3
+  },
+  "RETR|837": {
+   "count": 8229617,
+   "ntok": 3
+  },
+  "RETR|843": {
+   "count": 9132400,
+   "ntok": 3
+  },
+  "RETR|847": {
+   "count": 8622436,
+   "ntok": 3
+  },
+  "RETR|858": {
+   "count": 9022090,
+   "ntok": 3
+  },
+  "RETR|860": {
+   "count": 14877004,
+   "ntok": 3
+  },
+  "RETR|873": {
+   "count": 8497977,
+   "ntok": 3
+  },
+  "RETR|874": {
+   "count": 8661095,
+   "ntok": 3
+  },
+  "RETR|877": {
+   "count": 10308265,
+   "ntok": 3
+  },
+  "RETR|886": {
+   "count": 9279665,
+   "ntok": 3
+  },
+  "RETR|887": {
+   "count": 9117306,
+   "ntok": 3
+  },
+  "RETR|891": {
+   "count": 9859715,
+   "ntok": 3
+  },
+  "RETR|900": {
+   "count": 63014711,
+   "ntok": 3
+  },
+  "RETR|905": {
+   "count": 12503493,
+   "ntok": 3
+  },
+  "RETR|907": {
+   "count": 11301061,
+   "ntok": 3
+  },
+  "RETR|910": {
+   "count": 16949193,
+   "ntok": 3
+  },
+  "RETR|913": {
+   "count": 11814532,
+   "ntok": 3
+  },
+  "RETR|918": {
+   "count": 14531666,
+   "ntok": 3
+  },
+  "RETR|925": {
+   "count": 13057877,
+   "ntok": 3
+  },
+  "RETR|928": {
+   "count": 12081595,
+   "ntok": 3
+  },
+  "RETR|932": {
+   "count": 12153850,
+   "ntok": 3
+  },
+  "RETR|935": {
+   "count": 12722355,
+   "ntok": 3
+  },
+  "RETR|943": {
+   "count": 13653872,
+   "ntok": 3
+  },
+  "RETR|945": {
+   "count": 19134973,
+   "ntok": 3
+  },
+  "RETR|946": {
+   "count": 13784282,
+   "ntok": 3
+  },
+  "RETR|953": {
+   "count": 14473449,
+   "ntok": 3
+  },
+  "RETR|956": {
+   "count": 15065194,
+   "ntok": 3
+  },
+  "RETR|960": {
+   "count": 41977998,
+   "ntok": 3
+  },
+  "RETR|962": {
+   "count": 17224297,
+   "ntok": 3
+  },
+  "RETR|964": {
+   "count": 18971277,
+   "ntok": 3
+  },
+  "RETR|983": {
+   "count": 26262560,
+   "ntok": 3
+  },
+  "RETR|986": {
+   "count": 30345857,
+   "ntok": 3
+  },
+  "RETR|995": {
+   "count": 49410434,
+   "ntok": 3
+  },
+  "RETR|997": {
+   "count": 53812283,
+   "ntok": 3
+  },
+  "COUNTRY|Afghanistan": {
+   "count": 22044072,
+   "ntok": 2
+  },
+  "COUNTRY|Algeria": {
+   "count": 3048122,
+   "ntok": 3
+  },
+  "COUNTRY|Argentina": {
+   "count": 13242530,
+   "ntok": 1
+  },
+  "COUNTRY|Australia": {
+   "count": 113453720,
+   "ntok": 1
+  },
+  "COUNTRY|Austria": {
+   "count": 13123396,
+   "ntok": 1
+  },
+  "COUNTRY|Bangladesh": {
+   "count": 13463420,
+   "ntok": 3
+  },
+  "COUNTRY|Belarus": {
+   "count": 6174299,
+   "ntok": 2
+  },
+  "COUNTRY|Belgium": {
+   "count": 13967886,
+   "ntok": 2
+  },
+  "COUNTRY|Brazil": {
+   "count": 44089964,
+   "ntok": 1
+  },
+  "COUNTRY|Bulgaria": {
+   "count": 6105085,
+   "ntok": 2
+  },
+  "COUNTRY|Canada": {
+   "count": 127165872,
+   "ntok": 1
+  },
+  "COUNTRY|Chile": {
+   "count": 12569397,
+   "ntok": 1
+  },
+  "COUNTRY|China": {
+   "count": 167500380,
+   "ntok": 1
+  },
+  "COUNTRY|Colombia": {
+   "count": 10211118,
+   "ntok": 1
+  },
+  "COUNTRY|Czech Republic": {
+   "count": 5965887,
+   "ntok": 2
+  },
+  "COUNTRY|Denmark": {
+   "count": 13133059,
+   "ntok": 2
+  },
+  "COUNTRY|Ecuador": {
+   "count": 5706630,
+   "ntok": 2
+  },
+  "COUNTRY|Egypt": {
+   "count": 43460229,
+   "ntok": 1
+  },
+  "COUNTRY|Estonia": {
+   "count": 4022898,
+   "ntok": 2
+  },
+  "COUNTRY|Ethiopia": {
+   "count": 7814616,
+   "ntok": 3
+  },
+  "COUNTRY|Finland": {
+   "count": 12110632,
+   "ntok": 1
+  },
+  "COUNTRY|France": {
+   "count": 77408404,
+   "ntok": 1
+  },
+  "COUNTRY|Germany": {
+   "count": 79634457,
+   "ntok": 1
+  },
+  "COUNTRY|Ghana": {
+   "count": 14260447,
+   "ntok": 2
+  },
+  "COUNTRY|Greece": {
+   "count": 21050992,
+   "ntok": 1
+  },
+  "COUNTRY|Hungary": {
+   "count": 8738105,
+   "ntok": 2
+  },
+  "COUNTRY|Iceland": {
+   "count": 10958576,
+   "ntok": 3
+  },
+  "COUNTRY|India": {
+   "count": 167009951,
+   "ntok": 1
+  },
+  "COUNTRY|Indonesia": {
+   "count": 20339782,
+   "ntok": 2
+  },
+  "COUNTRY|Iran": {
+   "count": 52031060,
+   "ntok": 1
+  },
+  "COUNTRY|Iraq": {
+   "count": 33446768,
+   "ntok": 2
+  },
+  "COUNTRY|Ireland": {
+   "count": 49280739,
+   "ntok": 1
+  },
+  "COUNTRY|Israel": {
+   "count": 72536776,
+   "ntok": 1
+  },
+  "COUNTRY|Italy": {
+   "count": 50310272,
+   "ntok": 1
+  },
+  "COUNTRY|Japan": {
+   "count": 81067730,
+   "ntok": 1
+  },
+  "COUNTRY|Jordan": {
+   "count": 30775605,
+   "ntok": 1
+  },
+  "COUNTRY|Kazakhstan": {
+   "count": 5099904,
+   "ntok": 3
+  },
+  "COUNTRY|Kenya": {
+   "count": 16182124,
+   "ntok": 2
+  },
+  "COUNTRY|Latvia": {
+   "count": 3384753,
+   "ntok": 2
+  },
+  "COUNTRY|Lebanon": {
+   "count": 9577216,
+   "ntok": 2
+  },
+  "COUNTRY|Libya": {
+   "count": 6430331,
+   "ntok": 2
+  },
+  "COUNTRY|Lithuania": {
+   "count": 4144590,
+   "ntok": 3
+  },
+  "COUNTRY|Malaysia": {
+   "count": 20932111,
+   "ntok": 2
+  },
+  "COUNTRY|Mexico": {
+   "count": 55685779,
+   "ntok": 1
+  },
+  "COUNTRY|Mongolia": {
+   "count": 3174070,
+   "ntok": 2
+  },
+  "COUNTRY|Morocco": {
+   "count": 7041933,
+   "ntok": 3
+  },
+  "COUNTRY|Nepal": {
+   "count": 12159481,
+   "ntok": 2
+  },
+  "COUNTRY|Netherlands": {
+   "count": 22308911,
+   "ntok": 1
+  },
+  "COUNTRY|New Zealand": {
+   "count": 41716129,
+   "ntok": 2
+  },
+  "COUNTRY|Nigeria": {
+   "count": 28686386,
+   "ntok": 2
+  },
+  "COUNTRY|Norway": {
+   "count": 15222489,
+   "ntok": 1
+  },
+  "COUNTRY|Pakistan": {
+   "count": 39624259,
+   "ntok": 1
+  },
+  "COUNTRY|Peru": {
+   "count": 8833132,
+   "ntok": 1
+  },
+  "COUNTRY|Philippines": {
+   "count": 21670526,
+   "ntok": 1
+  },
+  "COUNTRY|Poland": {
+   "count": 18988828,
+   "ntok": 1
+  },
+  "COUNTRY|Portugal": {
+   "count": 13880999,
+   "ntok": 1
+  },
+  "COUNTRY|Qatar": {
+   "count": 8821498,
+   "ntok": 2
+  },
+  "COUNTRY|Romania": {
+   "count": 8127254,
+   "ntok": 2
+  },
+  "COUNTRY|Russia": {
+   "count": 67968646,
+   "ntok": 1
+  },
+  "COUNTRY|Saudi Arabia": {
+   "count": 12537182,
+   "ntok": 4
+  },
+  "COUNTRY|Senegal": {
+   "count": 3315437,
+   "ntok": 3
+  },
+  "COUNTRY|Serbia": {
+   "count": 6165658,
+   "ntok": 2
+  },
+  "COUNTRY|Slovakia": {
+   "count": 3637034,
+   "ntok": 3
+  },
+  "COUNTRY|South Korea": {
+   "count": 12725485,
+   "ntok": 2
+  },
+  "COUNTRY|Spain": {
+   "count": 40660027,
+   "ntok": 1
+  },
+  "COUNTRY|Sudan": {
+   "count": 9372676,
+   "ntok": 2
+  },
+  "COUNTRY|Sweden": {
+   "count": 21324656,
+   "ntok": 1
+  },
+  "COUNTRY|Syria": {
+   "count": 18769927,
+   "ntok": 2
+  },
+  "COUNTRY|Taiwan": {
+   "count": 20341378,
+   "ntok": 1
+  },
+  "COUNTRY|Thailand": {
+   "count": 20675277,
+   "ntok": 2
+  },
+  "COUNTRY|Tunisia": {
+   "count": 3498426,
+   "ntok": 3
+  },
+  "COUNTRY|Turkey": {
+   "count": 29544462,
+   "ntok": 1
+  },
+  "COUNTRY|Uganda": {
+   "count": 8896008,
+   "ntok": 3
+  },
+  "COUNTRY|Ukraine": {
+   "count": 33591749,
+   "ntok": 1
+  },
+  "COUNTRY|Uruguay": {
+   "count": 3613576,
+   "ntok": 1
+  },
+  "COUNTRY|Venezuela": {
+   "count": 7241900,
+   "ntok": 1
+  },
+  "COUNTRY|Vietnam": {
+   "count": 36151641,
+   "ntok": 1
+  },
+  "COUNTRY|Zimbabwe": {
+   "count": 8577307,
+   "ntok": 4
+  }
+ }
+}

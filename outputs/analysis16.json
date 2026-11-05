@@ -1,0 +1,342 @@
+{
+ "F1_SCIQ": {
+  "per_model": {
+   "q15": {
+    "BARE": {
+     "n_items": 132,
+     "rho": 0.4485567397205911,
+     "partial_ntok": 0.3804451569137115,
+     "partial_margin": 0.4453676176339574,
+     "rho_margin": 0.1594865853405896
+    },
+    "CHOICE": {
+     "n_items": 237,
+     "rho": 0.1756879660844648,
+     "partial_ntok": 0.20966188292213747,
+     "partial_margin": 0.218036713006851,
+     "rho_margin": 0.6120241497286782
+    }
+   },
+   "llama": {
+    "BARE": {
+     "n_items": 148,
+     "rho": 0.34355477405957907,
+     "partial_ntok": 0.3168169125589037,
+     "partial_margin": 0.35805525712002223,
+     "rho_margin": 0.04082373291025472
+    },
+    "CHOICE": {
+     "n_items": 243,
+     "rho": 0.2014779132467484,
+     "partial_ntok": 0.18625278946267088,
+     "partial_margin": 0.31736751594944695,
+     "rho_margin": 0.6141119341139415
+    }
+   },
+   "phi": {
+    "BARE": {
+     "n_items": 169,
+     "rho": 0.3954779470476414,
+     "partial_ntok": 0.2960325911760798,
+     "partial_margin": 0.4007828440582751,
+     "rho_margin": 0.18912000312140867
+    },
+    "CHOICE": {
+     "n_items": 254,
+     "rho": 0.2327124777267483,
+     "partial_ntok": 0.24332193783178913,
+     "partial_margin": 0.24648885792350433,
+     "rho_margin": 0.5806077553855897
+    }
+   },
+   "q7": {
+    "BARE": {
+     "n_items": 175,
+     "rho": 0.37257724051935065,
+     "partial_ntok": 0.35921025556611225,
+     "partial_margin": 0.3734215948134429,
+     "rho_margin": 0.21868113702089725
+    },
+    "CHOICE": {
+     "n_items": 262,
+     "rho": 0.21591555590837558,
+     "partial_ntok": 0.2463131859947889,
+     "partial_margin": 0.1732080197651937,
+     "rho_margin": 0.6443694438908175
+    }
+   },
+   "mis": {
+    "BARE": {
+     "n_items": 163,
+     "rho": 0.2975298818025942,
+     "partial_ntok": 0.29529844551676243,
+     "partial_margin": 0.3220369185193794,
+     "rho_margin": 0.27312941797012225
+    },
+    "CHOICE": {
+     "n_items": 264,
+     "rho": 0.27615590525200995,
+     "partial_ntok": 0.2560018950771534,
+     "partial_margin": 0.3062689075958351,
+     "rho_margin": 0.5485865474469283
+    }
+   },
+   "gemma": {
+    "BARE": {
+     "n_items": 185,
+     "rho": 0.44789995515271774,
+     "partial_ntok": 0.44403557852138936,
+     "partial_margin": 0.45221413307088965,
+     "rho_margin": 0.17752253729620396
+    },
+    "CHOICE": {
+     "n_items": 275,
+     "rho": 0.21443760720381558,
+     "partial_ntok": 0.2639992070514046,
+     "partial_margin": 0.18773262422370998,
+     "rho_margin": 0.6583618844154496
+    }
+   },
+   "q14": {
+    "BARE": {
+     "n_items": 183,
+     "rho": 0.3942587054065792,
+     "partial_ntok": 0.36404290300888165,
+     "partial_margin": 0.38892416870907265,
+     "rho_margin": 0.2244678063380801
+    },
+    "CHOICE": {
+     "n_items": 272,
+     "rho": 0.275729618302406,
+     "partial_ntok": 0.2775568175634866,
+     "partial_margin": 0.19833688113751585,
+     "rho_margin": 0.5991042119576778
+    }
+   },
+   "q32": {
+    "BARE": {
+     "n_items": 188,
+     "rho": 0.34464219484863023,
+     "partial_ntok": 0.3081293059740899,
+     "partial_margin": 0.3563034047218087,
+     "rho_margin": 0.15669534075005448
+    },
+    "CHOICE": {
+     "n_items": 268,
+     "rho": 0.2643534278257407,
+     "partial_ntok": 0.27992118527098403,
+     "partial_margin": 0.2528903024521207,
+     "rho_margin": 0.587059153520436
+    }
+   }
+  },
+  "n_models": 8,
+  "median_rho": 0.3834179729629649,
+  "n_positive": 8,
+  "verdict": "COMMIT"
+ },
+ "F2_RETR": {
+  "per_model": {
+   "q15": {
+    "BARE": {
+     "n_items": 299,
+     "rho": 0.16357966746299218,
+     "partial_ntok": 0.16357966746299218,
+     "partial_margin": 0.1621871897165749,
+     "rho_margin": -0.0266589134255066
+    },
+    "CHOICE": {
+     "n_items": 300,
+     "rho": 0.25143390465499665,
+     "partial_ntok": 0.25143390465499665,
+     "partial_margin": 0.25518845588457983,
+     "rho_margin": 0.04139956876516554
+    }
+   },
+   "llama": {
+    "BARE": {
+     "n_items": 300,
+     "rho": 0.2833210273788479,
+     "partial_ntok": 0.2833210273788479,
+     "partial_margin": 0.2900714410460502,
+     "rho_margin": 0.31840172712821585
+    },
+    "CHOICE": {
+     "n_items": 300,
+     "rho": 0.39509937681555474,
+     "partial_ntok": 0.3950993768155548,
+     "partial_margin": 0.4007196202956275,
+     "rho_margin": 0.24185754744608848
+    }
+   },
+   "phi": {
+    "BARE": {
+     "n_items": 299,
+     "rho": -0.11378180042974606,
+     "partial_ntok": -0.11378180042974606,
+     "partial_margin": -0.10036832255964555,
+     "rho_margin": 0.18723133073291498
+    },
+    "CHOICE": {
+     "n_items": 300,
+     "rho": -0.03300814448693333,
+     "partial_ntok": -0.03300814448693334,
+     "partial_margin": -0.017737452737099348,
+     "rho_margin": 0.18453748632292197
+    }
+   },
+   "q7": {
+    "BARE": {
+     "n_items": 300,
+     "rho": 0.07980439571172655,
+     "partial_ntok": 0.07980439571172655,
+     "partial_margin": 0.07043131068123427,
+     "rho_margin": 0.10228048893912058
+    },
+    "CHOICE": {
+     "n_items": 300,
+     "rho": 0.3178118191009215,
+     "partial_ntok": 0.3178118191009215,
+     "partial_margin": 0.3091235782951882,
+     "rho_margin": 0.12979483428466512
+    }
+   },
+   "mis": {
+    "BARE": {
+     "n_items": 300,
+     "rho": 0.07864161272764404,
+     "partial_ntok": 0.07864161272764404,
+     "partial_margin": 0.07304701194094279,
+     "rho_margin": 0.10045174936835985
+    },
+    "CHOICE": {
+     "n_items": 300,
+     "rho": 0.18198683058102777,
+     "partial_ntok": 0.18198683058102777,
+     "partial_margin": 0.17684471338491412,
+     "rho_margin": 0.10666524539850775
+    }
+   },
+   "gemma": {
+    "BARE": {
+     "n_items": 300,
+     "rho": 0.21257377232181784,
+     "partial_ntok": 0.21257377232181782,
+     "partial_margin": 0.1992220838516784,
+     "rho_margin": 0.2010817770584016
+    },
+    "CHOICE": {
+     "n_items": 300,
+     "rho": 0.18618166882523818,
+     "partial_ntok": 0.18618166882523818,
+     "partial_margin": 0.17132123773406044,
+     "rho_margin": 0.21632322261129414
+    }
+   },
+   "q14": {
+    "BARE": {
+     "n_items": 300,
+     "rho": -0.036356365767989736,
+     "partial_ntok": -0.036356365767989736,
+     "partial_margin": -0.036365556967317296,
+     "rho_margin": 0.02876242629645515
+    },
+    "CHOICE": {
+     "n_items": 300,
+     "rho": 0.1475661225448932,
+     "partial_ntok": 0.1475661225448932,
+     "partial_margin": 0.14830646862842917,
+     "rho_margin": 0.09843854267951127
+    }
+   },
+   "q32": {
+    "BARE": {
+     "n_items": 300,
+     "rho": -0.017335564493870238,
+     "partial_ntok": -0.017335564493870238,
+     "partial_margin": -0.014189414614657374,
+     "rho_margin": 0.17678496225825902
+    },
+    "CHOICE": {
+     "n_items": 300,
+     "rho": 0.3431815726631354,
+     "partial_ntok": 0.3431815726631354,
+     "partial_margin": 0.3469012369044152,
+     "rho_margin": 0.10019446247686288
+    }
+   }
+  },
+  "n_models": 8,
+  "median_rho": 0.0792230042196853,
+  "n_positive": 5,
+  "verdict": "PASS"
+ },
+ "F3_FACT_subject_vs_answer": {
+  "per_model": {
+   "q15": {
+    "n_countries": 76,
+    "rho_country": 0.5480558915956336,
+    "rho_capital": 0.6833643247316125,
+    "country_given_capital": 0.17582155056667456,
+    "capital_given_country": 0.5115722039684103,
+    "rho_country_capital": 0.6610526315789473
+   },
+   "llama": {
+    "n_countries": 76,
+    "rho_country": 0.4446784581399461,
+    "rho_capital": 0.6149575700397741,
+    "country_given_capital": 0.04551590771850973,
+    "capital_given_country": 0.47593324061512454,
+    "rho_country_capital": 0.6803280929596719
+   },
+   "phi": {
+    "n_countries": 77,
+    "rho_country": 0.5141181858058882,
+    "rho_capital": 0.6819715082272577,
+    "country_given_capital": 0.11114024189993679,
+    "capital_given_country": 0.5309247460173744,
+    "rho_country_capital": 0.6648351648351648
+   },
+   "q7": {
+    "n_countries": 78,
+    "rho_country": 0.4548140403769433,
+    "rho_capital": 0.7163343275086551,
+    "country_given_capital": -0.052945706529313914,
+    "capital_given_country": 0.6227992105491914,
+    "rho_country_capital": 0.6730611160990907
+   },
+   "mis": {
+    "n_countries": 77,
+    "rho_country": 0.27505392484625796,
+    "rho_capital": 0.5614943845090756,
+    "country_given_capital": -0.15894538735575697,
+    "capital_given_country": 0.527207701556718,
+    "rho_country_capital": 0.6648351648351648
+   },
+   "gemma": {
+    "n_countries": 78,
+    "rho_country": 0.48504709731302753,
+    "rho_capital": 0.7770469173583904,
+    "country_given_capital": -0.08152679458853615,
+    "capital_given_country": 0.6966736855759141,
+    "rho_country_capital": 0.6730611160990907
+   },
+   "q14": {
+    "n_countries": 77,
+    "rho_country": 0.30797659712555736,
+    "rho_capital": 0.6523806751016119,
+    "country_given_capital": -0.22211748324129066,
+    "capital_given_country": 0.629855689037884,
+    "rho_country_capital": 0.6648351648351648
+   },
+   "q32": {
+    "n_countries": 77,
+    "rho_country": 0.5123971332370689,
+    "rho_capital": 0.7166408181193323,
+    "country_given_capital": 0.06900253067303766,
+    "capital_given_country": 0.5861182190919545,
+    "rho_country_capital": 0.6648351648351648
+   }
+  }
+ }
+}
