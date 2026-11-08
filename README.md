@@ -1,5 +1,7 @@
 # Reviewer package: The predictable order in which damaged language models lose their capabilities
 
+Project page: https://zhixiangwang-cn.github.io/damage-order-artifacts/ (source in docs/).
+
 - protocols/: the main protocol and every time-stamped amendment in the original Chinese; protocols_en/: English translations of the same files. Each protocol states its predictions, thresholds, the md5 of its locked analysis script, a run log and the result. FREQ_AUDIT documents the re-query of the capital co-occurrence counts.
 - code/: damage, compression, evaluation and analysis scripts (analyzeN.py are the locked analyses).
 - outputs/: the JSON outputs of every locked analysis.
